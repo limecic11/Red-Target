@@ -1,0 +1,16 @@
+           _Red Target is a tool used for detecting the ip address of any domain you've entered
+Just Enter The Domain ahd you'll get The IP of the Domain
+Here's An Example:-
+    ===================================================
+root@kali:~ python3 Red\ Target.py
+
+Enter The Destination URL=> github.com  
+====================
+HOST: kali
+Your IP : 127.0.1.1
+====================
+Server : github.com
+Server IP : 140.82.121.4
+ 
+ 
+ Enjoy!!
